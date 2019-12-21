@@ -1,4 +1,2 @@
-# idk-yet
-Idk yet
-
-This thing idk about yet
+Make websites idc
+Contribute to websites #idc
